@@ -23,11 +23,11 @@ Ce projet est un site web vitrine réalisé dans le cadre de ma formation **Dév
 
 ```markdown
 DWWM/
-├── Accueil.html                        # Page d'accueil
-├── Formation_Developpeur_Web.html      # Présentation de la formation
-├── Temoignages.html                    # Témoignages d'anciens apprenants
-├── Nos_References.html                 # Entreprises partenaires
-├── Nous_Contacter.html                 # Formulaire de contact
+├── index.html                          # Page d'accueil
+├── formation_Developpeur_Web.html      # Présentation de la formation
+├── temoignages.html                    # Témoignages d'anciens apprenants
+├── nos_References.html                 # Entreprises partenaires
+├── nous_Contacter.html                 # Formulaire de contact
 ├── CSS/
 │   └── style.css                       # Feuille de style personnalisée
 ├── images/                             # Dossier des images
@@ -83,7 +83,7 @@ DWWM/
 ## 🚀 Installation et utilisation
 
 1. Cloner ou télécharger le projet
-2. Ouvrir le fichier [Accueil.html](Accueil.html) dans un navigateur web
+2. Ouvrir le fichier [index.html](index.html) dans un navigateur web
 3. Naviguer entre les pages via le menu
 
 Aucune installation de dépendances requise - le projet utilise Bootstrap via CDN.
