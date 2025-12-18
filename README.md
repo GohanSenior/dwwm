@@ -88,7 +88,7 @@ Le site est accessible directement via GitHub Pages : **[https://gohansenior.git
 
 ### 💻 Installation locale1. Cloner ou télécharger le projet
 
-2. Ouvrir le fichier [index.html](index.html) dans un navigateur web
+1. Ouvrir le fichier [index.html](index.html) dans un navigateur web
 2. Naviguer entre les pages via le menu
 
 Aucune installation de dépendances requise - le projet utilise Bootstrap via CDN.
