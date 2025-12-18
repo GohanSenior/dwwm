@@ -82,9 +82,14 @@ DWWM/
 
 ## 🚀 Installation et utilisation
 
-1. Cloner ou télécharger le projet
+### 🌐 Démo en ligne
+
+Le site est accessible directement via GitHub Pages : **[https://gohansenior.github.io/dwwm/](https://gohansenior.github.io/dwwm/)**
+
+### 💻 Installation locale1. Cloner ou télécharger le projet
+
 2. Ouvrir le fichier [index.html](index.html) dans un navigateur web
-3. Naviguer entre les pages via le menu
+2. Naviguer entre les pages via le menu
 
 Aucune installation de dépendances requise - le projet utilise Bootstrap via CDN.
 
